@@ -29,7 +29,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Surendar  N (22008384)</b></caption>
+<caption><b>SLOT TIME TABLE - SURENDAR N (22008384)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -40,13 +40,15 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">8-10</th>
-<td colspan="3">FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
 <td>PHY</td>
-<td>CHE</td>
+<td>SS</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">10-12</th>
-<td>GER</td>
+<td>EDM</td>
 <td> FREE SLOT </td>
 <td>FWAD</td>
 <td>FWAD</td>
@@ -58,15 +60,17 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">1-3</th>
-<td colspan="2"> FREE SLOT </td>
+<td> FREE SLOT </td>
+<td>FREE SLOT</td>
 <td>MAT</td>
 <td>MAT</td>
 <td>SS</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">3-5</th>
-<td colspan="2"> FREE SLOT </td>
-<td>GER</td>
+<td> FREE SLOT </td>
+<td>FREE SLOT</td>
+<td>EDM</td>
 <td>CHE</td>
 <td>FWAD</td>
 </tr>
@@ -85,8 +89,8 @@ Execute the program
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19EN701</td>
-<td>Communicative English</td>
+<td align="center">19EN612</td>
+<td>ENGINEERIN DESIGNING AND MODELING(EDM)</td>
 </tr>
 <tr>
 <td align="center">3.</td>
@@ -95,8 +99,8 @@ Execute the program
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19PH205</td>
-<td>Computational Physics</td>
+<td align="center">19CY205</td>
+<td>COMMUNICATIVE ENGLISH (ENG)</td>
 </tr>
 <tr>
 <td align="center">5.</td>
